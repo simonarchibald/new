@@ -4,7 +4,7 @@
 
 I want to document my music listening habits since 2018. Music is something I keep on constantly, and my taste has changed over the last eight years, from EDM, rap, and pop to almost purely classical.
 
-## Collecting the Data
+## Types of Data
 
 - Song title
 - Artist
