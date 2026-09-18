@@ -4,12 +4,15 @@ Description
 
 I want to document my music listening habits since 2018. Music is something I keep on constantly, and my taste has changed over the last eight years, from EDM, rap, and pop to almost purely classical.
 
-Collecting the Data
+
+Types of Data
 
 Song title
 Artist
 Date
 Listening duration
+
+
 Limitations
 
 This data is only from Spotify and does not include my listening on other platforms, such as SoundCloud and YouTube.
