@@ -1,1 +1,1 @@
-
+For my personal data project, I want to document my music listening habits since 2018. I plan to use my Spotify extended listening history as my data source and organize it in a spreadsheet, with each listening event recorded separately. 
