@@ -1,20 +1,14 @@
-This week's material introduced GIS and the role of mapping in digital archaeology. One thing I found interesting was the idea that maps can influence how we understand archaeological evidence rather than simply display it.
+Opened the Linlithgow spatial notebook in Google Colab.
 
-Hacıgüzeller's reading made me think about how digital tools can make information appear more complete or objective than it really is. A map might accurately record the locations of archaeological remains without explaining how people experienced those places.
+Ran the first cell to install the Python libraries. This worked without any errors.
 
-I can see a similar problem with my Spotify dataset. Although I have information about what I listened to and when, I still need to reconstruct the physical circumstances of listening. This is difficult because the dataset does not necessarily include information about the devices I used.
+Loaded the burial data and looked at the information it contained, including dates, age at death, burial position, sex, and grave shape.
 
-I have not yet established how much of this information I can recover from Spotify itself. My next step is to examine the available fields and consider other sources of evidence, such as photographs, receipts, and my own memory.
+Ran the mapping code and produced a map of the burials, with different colours representing their earliest possible dates.
 
-GIS Exercise — Linlithgow Burials
+Continued through several of the exercises involving burial dates, age groups, and individual burials.
 
-Opened the Linlithgow notebook in Google Colab.
-
-Ran the first code cell, which installed the necessary Python libraries.
-
-Ran the following cells to load the burial data and produce a map.
-
-The map shows the locations of burial features, with different colours representing different dates.
+I could see how the data could be used to look for patterns, although I wasn't always sure what those patterns meant.
 
 Figure 1. Map of the Linlithgow burials generated using the course notebook.
 ![Linlithgow burial map](burial_map.png)
