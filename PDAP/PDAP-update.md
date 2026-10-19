@@ -1,4 +1,16 @@
-For my personal data project, I want to document my music listening habits since 2018. I plan to use my Spotify extended listening history as my data source and organize it in a spreadsheet, with each listening event recorded separately. 
+For my personal data project, I want to document my music listening habits since 2018. I plan to use my Spotify extended listening history as my data source and organize it in a spreadsheet, with each listening event recorded separately.
+
+October 19
+
+I've been thinking more about what the Spotify data actually tells me about my listening. It records what I listened to and for how long, but not necessarily what I was doing at the time or how much attention I was paying to the music.
+
+For example, I often leave music playing while studying, so the number of times I've listened to something might not be a very good indication of how much I like it.
+
+This relates to Hacıgüzeller's reading on archaeological mapping, particularly the question of whether having more data necessarily means having more knowledge. I could have thousands of listening records but still know relatively little about the circumstances in which I was listening.
+
+Another problem is that Spotify decides what information gets recorded in the first place. As Huggett discusses in his reading on digital ethics, the technologies used to collect and organize data can affect what we are able to learn from it.
+
+I still need to look at the Spotify data more closely and see what information is available about the devices I used. I also want to start making a rough timeline of the different devices I've owned since 2018.
 
 October 3
 
