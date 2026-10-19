@@ -17,6 +17,8 @@ New research question: How has the material infrastructure through which I liste
 
 One problem will be reconstructing what devices I was using at different points since 2018. For devices I still have, I can photograph and document them directly. For older devices, I may need to use photographs, receipts, account information, emails, or my own memory to work out approximately when I used them. I will need to distinguish between dates I can establish from evidence and dates that are only approximate.
 
+One difficulty with this approach is that I may be able to establish which devices I owned at a particular time without knowing exactly how often I used them to listen to music.
+
 I also need to look more closely at the Spotify extended listening history to see whether it contains information about the device or platform used for each listening event. If it does, this could help connect the Spotify data to the material history of my listening. If it does not, I will have to find other ways of making those connections.
 
 Things I could potentially document:
