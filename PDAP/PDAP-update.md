@@ -2,15 +2,13 @@ For my personal data project, I want to document my music listening habits since
 
 October 19
 
-I've been thinking more about what the Spotify data actually tells me about my listening. It records what I listened to and for how long, but not necessarily what I was doing at the time or how much attention I was paying to the music.
+I've been thinking a little more about the limitations of the Spotify data, particularly how it records what I listened to without necessarily telling me much about the circumstances.
 
-For example, I often leave music playing while studying, so the number of times I've listened to something might not be a very good indication of how much I like it.
+This relates to Hacıgüzeller's question of whether producing more maps necessarily means having more knowledge (Archaeology, Crafting Maps and Political Change, p. 81). I could have thousands of listening records but still know relatively little about how I was listening.
 
-This relates to Hacıgüzeller's reading on archaeological mapping, particularly her question of whether producing more maps necessarily means having more knowledge (p. 81). I could have thousands of listening records but still know relatively little about the circumstances in which I was listening.
+Huggett (ections 3.1 and 3.3) also discusses how digital technologies influence the production and interpretation of data. I think this applies to Spotify since I'm relying on information collected by the platform rather than recording it myself.
 
-Another problem is that Spotify decides what information gets recorded in the first place. Huggett (sections 3.1 and 3.3) discusses how digital technologies can influence the production and interpretation of archaeological data, and how we might place too much trust in them. I think this also applies to my project, since I am relying on information collected by Spotify rather than recording it myself.
-
-I still need to look at the Spotify data more closely and see what information is available about the devices I used. I also want to start making a rough timeline of the different devices I've owned since 2018.
+I still need to look more closely at what information is available in the listening history, particularly whether it records the devices I was using.
 
 October 3
 
