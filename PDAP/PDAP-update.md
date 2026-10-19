@@ -6,9 +6,9 @@ I've been thinking more about what the Spotify data actually tells me about my l
 
 For example, I often leave music playing while studying, so the number of times I've listened to something might not be a very good indication of how much I like it.
 
-This relates to Hacıgüzeller's reading on archaeological mapping, particularly the question of whether having more data necessarily means having more knowledge. I could have thousands of listening records but still know relatively little about the circumstances in which I was listening.
+This relates to Hacıgüzeller's reading on archaeological mapping, particularly her question of whether producing more maps necessarily means having more knowledge (p. 81). I could have thousands of listening records but still know relatively little about the circumstances in which I was listening.
 
-Another problem is that Spotify decides what information gets recorded in the first place. As Huggett discusses in his reading on digital ethics, the technologies used to collect and organize data can affect what we are able to learn from it.
+Another problem is that Spotify decides what information gets recorded in the first place. Huggett (sections 3.1 and 3.3) discusses how digital technologies can influence the production and interpretation of archaeological data, and how we might place too much trust in them. I think this also applies to my project, since I am relying on information collected by Spotify rather than recording it myself.
 
 I still need to look at the Spotify data more closely and see what information is available about the devices I used. I also want to start making a rough timeline of the different devices I've owned since 2018.
 
