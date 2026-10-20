@@ -1,19 +1,12 @@
-For my personal data project, I want to document my music listening habits since 2018. I plan to use my Spotify extended listening history as my data source and organize it in a spreadsheet, with each listening event recorded separately.
-
-October 19
-
-I've been thinking a little more about the limitations of the Spotify data, particularly how it records what I listened to without necessarily telling me much about the circumstances.
-
-This relates to Hacıgüzeller's question of whether producing more maps necessarily means having more knowledge (Archaeology, Crafting Maps and Political Change, p. 81). I could have thousands of listening records but still know relatively little about how I was listening.
-
-Huggett (ections 3.1 and 3.3) also discusses how digital technologies influence the production and interpretation of data. I think this applies to Spotify since I'm relying on information collected by the platform rather than recording it myself.
-
-I still need to look more closely at what information is available in the listening history, particularly whether it records the devices I was using.
+For my personal data project, I originally wanted to document how my music listening habits have changed since 2018. I planned to use my Spotify extended listening history as my data source and organize it in a spreadsheet, with each listening event recorded separately.
 
 October 3
 
-New research question: How has the material infrastructure through which I listen to music changed since 2018, and how has that shaped my listening?
+After receiving feedback from Dr. Graham, I decided to focus more on the material circumstances of listening rather than just changes in musical taste.
 
+My new research question is:
+
+How has the material infrastructure through which I listen to music changed since 2018, and how has that shaped my listening?
 
 One problem will be reconstructing what devices I was using at different points since 2018. For devices I still have, I can photograph and document them directly. For older devices, I may need to use photographs, receipts, account information, emails, or my own memory to work out approximately when I used them. I will need to distinguish between dates I can establish from evidence and dates that are only approximate.
 
@@ -30,3 +23,13 @@ Headphones, earbuds, and speakers
 Wired versus Bluetooth listening
 
 Changes in where I listen to music
+
+October 19
+
+I've been thinking more about the limitations of the Spotify data, particularly how it records what I listened to without necessarily telling me much about the circumstances.
+
+This relates to Hacıgüzeller's question of whether producing more maps necessarily means having more knowledge (Archaeology, Crafting Maps and Political Change, p. 81). I could have thousands of listening records but still know relatively little about how I was listening.
+
+Huggett (sections 3.1 and 3.3) also discusses how digital technologies influence the production and interpretation of data. I think this applies to Spotify since I'm relying on information collected by the platform rather than recording it myself.
+
+I still need to look more closely at what information is available in the listening history, particularly whether it records the devices I was using.
