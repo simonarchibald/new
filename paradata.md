@@ -1,4 +1,7 @@
-## Research Question
+Oct 19
+
+**Research Question**
+
 I originally wanted to look at how my music taste has changed since 2018, from mostly EDM, rap, and pop to almost entirely classical music.
 
 After some feedback from Dr. Graham, I decided to focus more on the physical side of listening, rather than just the music itself.
@@ -7,7 +10,7 @@ My new research question is:
 
 How has the material infrastructure through which I listen to music changed since 2018, and how has that shaped my listening?
 
-## Data Collection
+**Data Collection**
 
 My main source of data is my Spotify extended listening history, which contains records of individual listening events going back to 2018.
 
@@ -17,7 +20,7 @@ For devices I no longer have, I might be able to find old photographs, receipts,
 
 The problem is that knowing when I owned something doesn't necessarily tell me when or how often I used it to listen to music.
 
-## Data Processing
+**Data Processing**
 
 I still need to look more closely at the Spotify data to see whether it includes any information about the devices I was using.
 
@@ -25,13 +28,13 @@ If it doesn't, I will have to try to connect the listening records with the info
 
 I will also need to distinguish between dates I can actually verify and dates I'm only estimating from memory.
 
-## Website
+**Website**
 
 The final project will be presented on a one-page website.
 
 I haven't decided yet how I want to display the information, since I still need to see what data I can collect.
 
-## Problems and Decisions
+**Problems and Decisions**
 
 The main change I've made so far is moving away from just studying changes in musical taste.
 
