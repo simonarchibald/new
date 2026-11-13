@@ -10,6 +10,8 @@ The cells networkx.degree(G) and networkx.betweenness_centrality(G) gave an erro
 
 Calculated degree and betweenness centrality. Thomas Hayes and Catherine had the highest betweenness, since they connect the Hayes family to the Millers.
 
+Ran the community detection. It found five communities that match the five families, with a modularity score of 0.699.
+
 Added a cell to run the network again with only the stated relationships. This split it into three groups instead of two.
 
 Figure 1. Network of the family cemetery, generated in Google Colab.
