@@ -44,3 +44,7 @@ Another difficulty will be reconstructing which devices I used over the last eig
 I also have listening history outside Spotify, particularly on YouTube and SoundCloud, which won't be included in the dataset.
 
 For now, I need to find out how much information I can recover and what will have to remain uncertain.
+
+November 13
+
+After the Week 7 network exercise, I considered treating my listening as a network of devices and music. If I do this, I will need to mark which connections are recorded in the Spotify data and which are estimated from memory, since the two would otherwise look the same.
