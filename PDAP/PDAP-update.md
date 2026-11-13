@@ -33,3 +33,9 @@ This relates to Hacıgüzeller's question of whether producing more maps necessa
 Huggett (sections 3.1 and 3.3) also discusses how digital technologies influence the production and interpretation of data. I think this applies to Spotify since I'm relying on information collected by the platform rather than recording it myself.
 
 I still need to look more closely at what information is available in the listening history, particularly whether it records the devices I was using.
+
+November 13
+
+This week's network exercise made me consider whether my listening data could be treated as a network, with devices on one side and pieces of music on the other, linked whenever something was played on a device. Mills calls this a two-mode network, since it connects two different kinds of things, and notes that most material networks are of this kind (2017).
+
+This would depend on whether the Spotify data records which device was used for each listening event, which I still need to check. Even if it does, it would probably not record headphones or speakers, so part of the network would always be missing. 
