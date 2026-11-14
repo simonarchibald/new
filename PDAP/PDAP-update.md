@@ -39,3 +39,29 @@ November 13
 This week's network exercise made me consider whether my listening data could be treated as a network, with devices on one side and pieces of music on the other, linked whenever something was played on a device. Mills calls this a two-mode network, since it connects two different kinds of things, and notes that most material networks are of this kind (2017).
 
 This would depend on whether the Spotify data records which device was used for each listening event, which I still need to check. Even if it does, it would probably not record headphones or speakers, so part of the network would always be missing. 
+
+November 14
+
+I downloaded my full Spotify extended listening history. It goes from October 2016 to November 2026 and has about 356,000 listening events. I left out the video files because they only have 431 events, mostly podcasts.
+
+The data does record the device. Each listening event has a “platform” field that names the phone or computer and its operating system. From this I could work out which devices I used and when:
+
+iPhone 4S: 2016 to September 2017
+
+Windows PC: 2016 to 2018
+
+Huawei P10: September 2017 to September 2020
+
+Mac: from 2018
+
+iPhone SE: from September 2020
+
+In May 2022 the Mac entries change from Intel to Apple Silicon, so I probably got a new laptop around then. After October 14, 2022, Spotify only records “ios” or “osx” and not the model, so after that I can’t tell from the data alone which iPhone or Mac I was using. For that I will need receipts, photos or my memory. The data also doesn’t say anything about headphones or speakers.
+
+The biggest change is that I moved from listening to music on my phone to listening on my computer. In 2018 and 2019 about 90% of my music listening was on my phone. It stayed around 70% until 2023. In 2024 this reversed, and in 2025 72% of my music listening was on the Mac. This is also when I started listening almost only to classical music. In 2025 I listened to about 1,190 hours of Bach.
+
+Other fields show how the way I listened changed. In 2018, 93% of plays were on shuffle and 62% were offline downloads. By 2025 shuffle was down to about 40% and offline listening was at 0%. The share of plays that ran to the end of the track went from 14% in 2018 to 54% in 2025. This suggests I went from skipping through downloaded songs on my phone to playing whole pieces on my computer.
+
+Podcasts make 2021 to 2023 harder to read, since I listened to about 1,200 hours of them in 2023. I counted them separately from music.
+
+A track that plays to the end still doesn’t show that I was paying attention to it. As I wrote on October 19, the data records what played, not how closely I was listening.
