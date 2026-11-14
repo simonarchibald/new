@@ -58,7 +58,7 @@ iPhone SE: from September 2020
 
 In May 2022 the Mac entries change from Intel to Apple Silicon, so I probably got a new laptop around then. After October 14, 2022, Spotify only records “ios” or “osx” and not the model, so after that I can’t tell from the data alone which iPhone or Mac I was using. For that I will need receipts, photos or my memory. The data also doesn’t say anything about headphones or speakers.
 
-The biggest change is that I moved from listening to music on my phone to listening on my computer. In 2018 and 2019 about 90% of my music listening was on my phone. It stayed around 70% until 2023. In 2024 this reversed, and in 2025 72% of my music listening was on the Mac. This is also when I started listening almost only to classical music. In 2025 I listened to about 1,190 hours of Bach.
+The biggest change is that I moved from listening to music on my phone to listening on my computer. In 2018 and 2019 about 90% of my music listening was on my phone. It stayed around 70% until 2023. In 2024 this reversed, and in 2025 72% of my music listening was on my Mac. This is also when I started listening almost only to classical music. In 2025 I listened to about 1,190 hours of Bach.
 
 ![Phone vs computer listening](phone-vs-computer.png)
 
