@@ -65,3 +65,5 @@ Other fields show how the way I listened changed. In 2018, 93% of plays were on 
 Podcasts make 2021 to 2023 harder to read, since I listened to about 1,200 hours of them in 2023. I counted them separately from music.
 
 A track that plays to the end still doesn’t show that I was paying attention to it. As I wrote on October 19, the data records what played, not how closely I was listening.
+
+![Phone vs computer listening](phone-vs-computer.png)
