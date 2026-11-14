@@ -61,7 +61,6 @@ In May 2022 the Mac entries change from Intel to Apple Silicon, so I probably go
 The biggest change is that I moved from listening to music on my phone to listening on my computer. In 2018 and 2019 about 90% of my music listening was on my phone. It stayed around 70% until 2023. In 2024 this reversed, and in 2025 72% of my music listening was on the Mac. This is also when I started listening almost only to classical music. In 2025 I listened to about 1,190 hours of Bach.
 
 ![Phone vs computer listening](phone-vs-computer.png)
-*My music listening on phone and computer by year, 2017–2026.*
 
 Other fields show how the way I listened changed. In 2018, 93% of plays were on shuffle and 62% were offline downloads. By 2025 shuffle was down to about 40% and offline listening was at 0%. The share of plays that ran to the end of the track went from 14% in 2018 to 54% in 2025. This suggests I went from skipping through downloaded songs on my phone to playing whole pieces on my computer.
 
