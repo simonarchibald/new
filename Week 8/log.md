@@ -1,6 +1,8 @@
 November 20
 
-Opened the Flinders Petrie notebook in Google Colab, saved a copy to my Drive, and checked that the runtime was T4 GPU.
+Flinders Petrie language model
+
+Opened the Flinders Petrie notebook in Google Colab and checked that the runtime was T4 GPU.
 
 The training cell failed the first time with “Variable model/wpe already exists,” because it had been run twice in the same session. I restarted the session and ran all the cells once.
 
@@ -33,4 +35,4 @@ Figure 2. ArchaeoCLIP search results.
 
 Did not try the optional LLM query layer.
 
-For my PDAP, went through the Spotify Technical Log export and my YouTube watch history from Google Takeout (see PDAP-update, November 20).
+For my PDAP, went through the Spotify Technical Log export and my YouTube watch history from Google Takeout (cf. PDAP-update, November 20).
