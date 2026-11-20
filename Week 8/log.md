@@ -19,8 +19,6 @@ Teachable Machine
 
 ArchaeoCLIP
 - Used the same Met photographs: 5 red-figure and 5 black-figure vases in two folders, plus the two test vases and the Andokides amphora. Zipped them and uploaded the zip to the Colab file tray.
-- The notebook expects .jpg files in one folder, but my images were .jpeg and in subfolders, so I changed the embedding command to '**/*.jpeg'. I also deleted the __MACOSX folder that the Mac adds to zip files, because its hidden files also end in .jpeg.
-- The cell meant to show where llm_clip.py is installed printed nothing, because I had not yet run the install cells. After installing, I edited lines 22 and 23 of llm_clip.py so it would use Dr. Graham and Eric Kansa's model (sgraham/archae-ai) instead of the default CLIP model.
 - Visually similar search on the red-figure side of the Andokides amphora: the closest image was the black-figure test vase (0.84), then a black-figure vase (0.83), then a red-figure vase (0.83). Five of the eight closest vases from the two folders were black-figure. All the scores were between 0.74 and 0.84.
 - Search by idea, "warrior with a spear": the top three were all black-figure vases, but none showed a warrior with a spear (the first was a woman with two bulls, the second satyrs and a woman, the third a horseman). The only vase with a warrior holding a spear and shield ranked 9th. All the scores were very low and close together (0.26 to 0.30).
 - Screenshots: archaeoclip-results-1.png, archaeoclip-results-2.png
