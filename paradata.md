@@ -51,3 +51,13 @@ For now, I need to find out how much information I can recover and what will hav
 November 13
 
 After the Week 7 network exercise, I considered treating my listening as a network of devices and music. If I do this, I will need to mark which connections are recorded in the Spotify data and which are estimated from memory, since the two would otherwise look the same.
+
+November 20
+
+I now have three Spotify exports: the extended listening history (November 14), the standard Account Data, and the Technical Log. The Account Data has only one year of listening history and no device field. The Technical Log only covers about April to November 2026, but it records which headphones, speakers or car each song played through, and it names the exact model of the phone and computer. I am keeping the three separate, since they cover very different periods and record different things.
+
+All three exports contain personal information (email address, date of birth, device IDs, IP address hashes, search queries and messages). I am not putting the raw files on GitHub, only counts and summaries made from them.
+
+Some of the data was made for Spotify's own systems (advertising inferences, generated playlists, playback predictions), not as a record of my listening.
+
+I checked the model identifiers against Apple's and EveryMac's lists.
