@@ -100,3 +100,21 @@ The technical log also gives the model of each device instead of only "ios" or "
 This only covers the last few months, so for the headphones and speakers I used from 2018 to 2025 I will still need photographs, receipts and my memory. The exports also have to be kept apart: the listening history covers ten years with less detail, and the technical log covers a few months with much more.
 
 The technical log also shows Spotify running its own models on my listening (files such as DaylistGenerated, DJNarrationServed and StutterPrediction, and a list of advertising "Inferences" in the account data). The data I am studying was produced partly for those systems.
+
+I also downloaded my YouTube watch history from Google Takeout. It only goes back to May 31, 2026 and has 22,422 entries. Each entry has the title, channel and time, but no device, no length of viewing and nothing about downloads.
+
+The history does not separate music from other videos, so I counted a video as music if it came from one of YouTube's automatic music channels (names ending in "- Topic", or VEVO) or if its title or channel had classical terms such as Bach, BWV, sonata, concerto or harpsichord. By these rules about 2,000 entries are music. Music on YouTube compared with Spotify plays, by month:
+
+June: YouTube 633, Spotify 855
+
+July: YouTube 379, Spotify 3,599
+
+August: YouTube 291, Spotify 4,060
+
+September: YouTube 149, Spotify 1,090
+
+October: YouTube 305, Spotify 672
+
+November (YouTube to the 20th, Spotify to the 18th): YouTube 252, Spotify 144
+
+In November YouTube passes Spotify, which fits my move away from the Spotify app. The two are not the same unit, though: a Spotify play counts even if I skipped it after a few seconds, and a YouTube entry counts a video once however long I watched it.
