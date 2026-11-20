@@ -56,8 +56,8 @@ November 20
 
 I now have three Spotify exports: the extended listening history (November 14), the standard Account Data, and the Technical Log. The Account Data has only one year of listening history and no device field. The Technical Log only covers about April to November 2026, but it records which headphones, speakers or car each song played through, and it names the exact model of the phone and computer. I am keeping the three separate, since they cover very different periods and record different things.
 
-All three exports contain personal information (email address, date of birth, device IDs, IP address hashes, search queries and messages). I am not putting the raw files on GitHub, only counts and summaries made from them.
-
 Some of the data was made for Spotify's own systems (advertising inferences, generated playlists, playback predictions), not as a record of my listening.
+
+I also downloaded my YouTube watch history from Google Takeout. It only covers May 31 to November 20, 2026, and it records the title, channel and time of each video but no device or length of viewing. It also contains everything I watched, not only music, so I decided which videos counted as music by their channel and title. That decision is mine and approximate, and the counts depend on it. As with the Spotify exports, I am only putting monthly counts on GitHub, not the file itself.
 
 I checked the model identifiers against Apple's and EveryMac's lists.
