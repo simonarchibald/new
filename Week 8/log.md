@@ -1,6 +1,6 @@
-November 20
+**November 20**
 
-Flinders Petrie language model
+**Flinders Petrie language model**
 
 Opened the Flinders Petrie notebook in Google Colab and checked that the runtime was T4 GPU.
 
@@ -10,6 +10,8 @@ The training then failed with “Dataset files are too small to sample 1024 toke
 
 The download cell starts with %%capture, which hides its output, so the failure only showed up at the training step. I could not generate any text from the prompt “Local workers are.”
 
+**Teachable Machine**
+
 Teachable Machine did not load in Safari, so I used Chrome.
 
 Made an image model in Teachable Machine with two classes, red-figure and black-figure, using public-domain photographs of Attic amphorae and neck-amphorae from the Met’s collection. I left out fragments and drawings and uploaded 5 images per class.
@@ -18,6 +20,8 @@ Tested it on three vases that were not in the training set. It called a red-figu
 
 Figure 1. Teachable Machine model and the Andokides test.
 ![Teachable Machine](teachable-machine.png)
+
+**ArchaeoCLIP**
 
 Used the same photographs in the ArchaeoCLIP notebook: the 5 red-figure and 5 black-figure vases, the two test vases, and the Andokides amphora.
 
@@ -33,6 +37,6 @@ Figure 2. ArchaeoCLIP search results.
 ![ArchaeoCLIP results](archaeoclip-results-1.png)
 ![ArchaeoCLIP results](archaeoclip-results-2.png)
 
-Did not try the optional LLM query layer.
+**PDAP**
 
 For my PDAP, went through the Spotify Technical Log export and my YouTube watch history from Google Takeout (cf. PDAP-update, November 20).
