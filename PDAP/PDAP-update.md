@@ -69,3 +69,34 @@ Podcasts make 2021 to 2023 harder to read, since I listened to about 1,200 hours
 A track that plays to the end still doesn’t show that I was paying attention to it. As I wrote on October 19, the data records what played, not how closely I was listening.
 
 
+November 20
+
+I received the third and final Spotify data export, my Technical Log, which complements my Extended Listening History and Account Data.
+
+The Account Data has a listening history that only covers November 2025 to November 2026, with no device field, so it adds little to the extended history. It does show how Spotify classifies me: a list of advertising "Inferences," and about 1,500 artists for whom I am a "Previously Active Listener," including Boys Noize and Keith Ape from the EDM and rap I listened to around 2018.
+
+The Technical Log has 164 files of app events, but they only go back to April 2026, and most of the useful ones start in August.
+
+The most useful file is AudioRouteSegmentEnd. It records which output each song played through, which is the part of my question the extended listening history could not answer. From August 20 to November 16 it has about 2,400 records:
+
+MacBook Air, "External Headphones" (Apple wired earbuds in the headphone jack): 1,703
+
+iPhone, EarPods: 496
+
+iPhone speaker: 175
+
+iPhone over Bluetooth to "Ioniq 5" (the car): 54
+
+MacBook Air speakers: 11
+
+In September most of my listening was on the MacBook with Apple wired earbuds plugged in (992 records against 99 on the iPhone with EarPods). In October most of it was on the iPhone with EarPods (380 records against 77 on the MacBook). On the iPhone, Spotify names the earbuds "EarPods"; on the MacBook it only records "External Headphones," because the headphone jack does not identify what is plugged into it.
+
+The MacBook disappears from the technical log after October 24, but I did not stop listening on it. I now rarely use the Spotify app, and have begun mostly using the web player or YouTube instead, due to convenience and my preference for having fewer app icons open on the dock. The web player does not record the device model or the headphones, so the move from the MacBook to the iPhone in October is partly a change in what Spotify could record, not only in how I listened. Safari also reports my M1 MacBook as an “Intel Mac OS X 10_15_7,” because Apple freezes that part of the browser’s identification, so the browser records are less reliable about the device than the app records.
+
+On YouTube I use regular YouTube with Premium, not YouTube Music, so that I can stream without ads, download videos, and listen to recordings that are not on Spotify. None of this appears in any of the Spotify exports.
+
+The technical log also gives the model of each device instead of only "ios" or "osx." MacBookAir10,1 is the MacBook Air (M1, 2020) and iPhone17,5 is the iPhone 16e. iPhone12,8 is the iPhone SE (2nd generation), which matches the iPhone SE in the listening history. The iPhone SE appears until August 9, 2026 and the iPhone 16e from August 21, so I changed phones in the middle of August. This fills in part of the gap after October 2022, when the listening history stops naming the model.
+
+This only covers the last few months, so for the headphones and speakers I used from 2018 to 2025 I will still need photographs, receipts and my memory. The exports also have to be kept apart: the listening history covers ten years with less detail, and the technical log covers a few months with much more.
+
+The technical log also shows Spotify running its own models on my listening (files such as DaylistGenerated, DJNarrationServed and StutterPrediction, and a list of advertising "Inferences" in the account data). The data I am studying was produced partly for those systems.
